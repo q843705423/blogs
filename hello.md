@@ -67,7 +67,7 @@ markdown中常用的排版符号非常少，所以一般人上手很快。那么
 
 
 ### <span id = "split">4.分割线</span>
-比较常用的字体表达符号有 \- \*
+分割线的符号 \- \*
 
 |表现内容        |表现符号        | 解释说明|
 | ------------- | ------------- |---------|
@@ -83,13 +83,27 @@ markdown中常用的排版符号非常少，所以一般人上手很快。那么
 ### <span id = "split">5.图片</span>
 丰富的图片,有时候比语言更加具有表现力
 
-使用方法:
-\!\[图片标题\]\(图片地址  "标签"\)
+**使用方法:**
+\!\[图片标题\]\(图片地址  "鼠标常驻时显示的内容"\)
 
-用例:
+**用例:**
 \!\[你好,世界\]\(https://raw.githubusercontent.com/q843705423/blogs/master/image/hello/hello_world.png  "hello world"\)
 
-效果:
+**效果:**
 
 ![你好,世界](https://raw.githubusercontent.com/q843705423/blogs/master/image/hello/hello_world.png "hello world")
 
+
+
+### <span id = "link">6.超链接</span>
+与图片的表达形式唯一的区别就是前面少个感叹号
+
+**使用方法:**
+\[超链接标题\]\(链接地址  "鼠标常驻时显示的内容"\)
+
+**用例:**
+\[百度\]\(https://www.baidu.com/  "这是百度"\)
+
+**效果:**
+
+[百度](https://www.baidu.com/ "这是百度")
