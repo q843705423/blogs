@@ -195,6 +195,20 @@ markdown中常用的排版符号非常少，所以一般人上手很快。那么
 它可以用于显示代码，并且保证代码不会发生转义
 
 如下
+\`\`\`
+public class Student{
+	
+	private String name;
+	
+	private String sex;
+
+}
+
+
+\`\`\`
+
+显示效果如下:
+
 ```
 public class Student{
 	private String name;
