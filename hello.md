@@ -54,7 +54,8 @@ markdown中常用的排版符号非常少，所以一般人上手很快。那么
 |删除线         |\~\~            |\~\~内容\~\~    |~~内容~~ |
 
 
-### <span id = "quot">3.引用</span> [<span id="quot" style="font-size:12px">返回目录</span>](#index)
+### <span id = "quot">3.引用</span> 
+#### [返回目录](#index)
 比较常用的字体表达符号有 \>
 
 使用方法:
