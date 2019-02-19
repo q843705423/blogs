@@ -88,5 +88,5 @@ markdown中常用的排版符号非常少，所以一般人上手很快。那么
 
 用例:
 
-![你好,世界](https://github.com/q843705423/blobs/blob/image/hello/hello_world.png)
+![你好,世界](https://github.com/q843705423/blogs/blob/image/hello/hello_world.png)
 
