@@ -87,6 +87,9 @@ markdown中常用的排版符号非常少，所以一般人上手很快。那么
 \!\[图片标题\]\(图片地址  "标签"\)
 
 用例:
+\!\[你好,世界\]\(https://raw.githubusercontent.com/q843705423/blogs/master/image/hello/hello_world.png  "hello world"\)
 
-![你好,世界](https://raw.githubusercontent.com/q843705423/blogs/master/image/hello/hello_world.png)
+效果:
+
+![你好,世界](https://raw.githubusercontent.com/q843705423/blogs/master/image/hello/hello_world.png "hello world")
 
