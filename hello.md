@@ -187,3 +187,20 @@ markdown中常用的排版符号非常少，所以一般人上手很快。那么
 |-------------- | ---------     |
 |for          |用于循环      |
 |if           |   用于判断   |
+
+### <span id="code">代码</span>
+代码的关键符号是 \`
+这给符号是在键盘中上面数字1左边的键敲出来的
+
+它可以用于显示代码，并且保证代码不会发生转义
+
+如下
+```
+public class Student{
+	private String name;
+	private String sex;
+
+}
+
+
+```
