@@ -43,11 +43,13 @@ markdown中常用的排版符号非常少，所以一般人上手很快。那么
 
 ### <span id = "font">字体</span>
 比较常用的字体表达符号有
-姓名|技能|排行
---|:--:|--:
-刘备|哭|大哥
-关羽|打|二哥
-张飞|骂|三弟
+
+| First Header | Second Header |
+| ------------- | ------------- |
+| Content Cell | Content Cell |
+| Content Cell | Content Cell |
+
+
 表现内容|表现符号|使用方法        
 ---|:--:|---:
 加粗   |\*\*    |\*\*内容\*\*     
