@@ -44,3 +44,5 @@ idea下命的快捷键
 |ctrl+Shift+F8|查看断点
 |alt+F8|执行表达式查看结果|
 |alt+5|进入debug的控制台|
+
+win+B 右下角
